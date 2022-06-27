@@ -72,7 +72,7 @@ START = (date.today() - relativedelta(years = 6)).strftime("%Y-%m-%d")
 TODAY = date.today().strftime("%Y-%m-%d")
 
 # Titolo
-st.title('Stock Forecast Application')
+st.title('Stock Forecast App')
 st.subheader('')
 
 # Titoli Azionari
