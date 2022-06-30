@@ -6,6 +6,7 @@ This application created and shared with Streamlit using Python allows you to ru
 
 ### LINK
 
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://simonebianco-stockforecastapp-main-o8gwpf.streamlitapp.com/ )
 
 
