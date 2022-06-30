@@ -9,6 +9,6 @@ This application created and shared with Streamlit using Python allows you to ru
 [Go to web application](https://simonebianco-stockforecastapp-main-o8gwpf.streamlitapp.com/ )
 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/simonebianco/StockForecastApp/stockforecastapp-main/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://simonebianco-stockforecastapp-main-o8gwpf.streamlitapp.com/ )
 
 
